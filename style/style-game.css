@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(51, 51, 51);
+    font: normal 12pt Arial;
+    color: white;
+}
+#line {
+    color: yellow;
+}
+#welcome {
+    color: yellow;
+}
+#findnumber {
+    color: yellow;
+}
+#line1 {
+    color: yellow;
+}
+#insertCharacter {
+    color: yellow;
+}
+#attempts {
+    color: yellow;
+	visibility: hidden;
+}
+#greaterless {
+    color: yellow;
+    visibility: hidden;
+}
+#back {
+    text-align: center;
+    position: top;
+    bottom: 0;
+    width: 99%;
+    height: 20px;
+    background: rgb(92, 92, 92);
+    margin-bottom: 50px;
+ }
